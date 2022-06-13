@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>explanation_demo</name>
+  <name>explanation_demo_test</name>
   <version>0.1.0</version>
-  <description>The explanation_demo package</description>
+  <description>The explanation_demo_test package</description>
   <license>BSD</license>
 
   <maintainer email="thbarkouki@ucdavis.edu">Tammer Barkouki</maintainer>

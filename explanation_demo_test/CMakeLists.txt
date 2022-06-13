@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.1.3)
-project(explanation_demo)
+project(explanation_demo_test)
 
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_EXTENSIONS OFF)
