@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="explanation_demo_test" pkg="explanation_demo_test" type="explanation_demo_test" respawn="false" output="screen">
+  </node>
+
+</launch>
